@@ -33,3 +33,9 @@ M:	Jonas Karlman <jonas@kwiboo.se>
 S:	Maintained
 F:	arch/arm/dts/rk3576-armsom-sige5*
 F:	configs/sige5-rk3576_defconfig
+
+100ASK-DSHANPI-A1-RK3576
+M:  Ivan Udalov <iudalov08@gmail.com>
+S:  Maintained
+N:  dshanpi-a1-rk3576
+F:  configs/dshanpi-a1-rk3576_defconfig
